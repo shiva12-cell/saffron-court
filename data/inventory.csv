@@ -1,0 +1,61 @@
+ingredient_id,name,unit,stock_qty,reorder_level
+I01,Chicken breast,kg,24.0,10
+I02,Lamb shoulder,kg,18.0,8
+I03,Lamb chops,kg,9.0,5
+I04,Beef mince,kg,12.0,6
+I05,Wagyu patty,pcs,30,15
+I06,Sea bass fillet,pcs,6,10
+I07,Salmon fillet,pcs,14,8
+I08,Prawns,kg,6.0,3
+I09,Basmati rice,kg,40.0,15
+I10,Arborio rice,kg,8.0,4
+I11,Pasta,kg,10.0,4
+I12,Chickpeas,kg,15.0,5
+I13,Red lentils,kg,9.0,4
+I14,Bulgur,kg,5.0,2
+I15,Flatbread,pcs,120,40
+I16,Halloumi,kg,4.0,2
+I17,Burrata,pcs,10,6
+I18,Butter,kg,6.0,3
+I19,Cream,l,9.0,4
+I20,Milk,l,20.0,8
+I21,Eggs,pcs,90,36
+I22,Saffron,kg,0.18,0.05
+I23,Dates,kg,5.0,2
+I24,Pistachio,kg,2.5,1
+I25,Almonds,kg,3.0,1
+I26,Walnuts,kg,2.0,1
+I27,Tahini,kg,4.0,2
+I28,Olive oil,l,12.0,5
+I29,Lemons,pcs,80,30
+I30,Mint,bunch,25,10
+I31,Pomegranate,pcs,20,8
+I32,Figs,pcs,30,8
+I33,Mixed vegetables,kg,20.0,8
+I34,Tomatoes,kg,12.0,5
+I35,Parsley,bunch,40,8
+I36,Onions,kg,15.0,5
+I37,Garlic,kg,2.0,1
+I38,Mushrooms,kg,3.0,1.5
+I39,Dark chocolate,kg,4.0,1.5
+I40,Sugar,kg,15.0,5
+I41,Flour,kg,20.0,8
+I42,Kunafa dough,kg,3.0,1.5
+I43,Filo pastry,kg,2.0,1
+I44,Rose water,l,1.5,0.5
+I45,Cardamom,kg,0.4,0.1
+I46,Tea,kg,2.0,0.5
+I47,Coffee beans,kg,5.0,2
+I48,Oranges,kg,10.0,4
+I49,Sparkling water 750ml,pcs,60,24
+I50,Mixed berries,kg,3.0,1
+I51,Yoghurt,l,6.0,2
+I52,Spice mix (baharat),kg,0.6,0.2
+I53,Cumin,kg,0.5,0.2
+I54,Honey,kg,3.0,1
+I55,Puff pastry,kg,2.0,1
+I56,Brioche buns,pcs,40,20
+I57,Cheddar,kg,2.0,1
+I58,Lettuce,pcs,15,6
+I59,Ice cream vanilla,l,4.0,2
+I60,Pomegranate juice,l,6.0,2

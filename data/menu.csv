@@ -1,0 +1,41 @@
+dish_id,name,category,price_aed,allergens,kids_friendly,active
+S01,Mezze Platter,Starters,48,sesame; gluten,yes,yes
+S02,Lentil Soup,Starters,28,,yes,yes
+S03,Halloumi & Fig Salad,Starters,42,dairy,no,yes
+S04,Spiced Prawn Skewers,Starters,58,shellfish,no,yes
+S05,Falafel Bites,Starters,32,sesame; gluten,yes,yes
+S06,Burrata with Pomegranate,Starters,56,dairy,no,yes
+S07,Beef Kibbeh,Starters,46,gluten; nuts,no,yes
+S08,Tabbouleh,Starters,30,gluten,yes,yes
+M01,Lamb Ouzi,Mains,140,nuts,no,yes
+M02,Grilled Sea Bass,Mains,165,fish,no,yes
+M03,Chicken Machboos,Mains,95,,yes,yes
+M04,Saffron Risotto,Mains,88,dairy,yes,yes
+M05,Butter Chicken,Mains,92,dairy; nuts,yes,yes
+M06,Vegetable Tagine,Mains,78,,yes,yes
+M07,Truffle Mushroom Pasta,Mains,98,gluten; dairy,no,yes
+M08,Chef's Special of the Day,Mains,,ask,no,yes
+G01,Mixed Grill Platter,Grills,185,,no,yes
+G02,Lamb Chops,Grills,160,,no,yes
+G03,Shish Tawook,Grills,85,dairy,yes,yes
+G04,Kofta Kebab,Grills,82,gluten,yes,yes
+G05,Grilled Salmon,Grills,130,fish,no,yes
+G06,Wagyu Burger,Grills,110,gluten; dairy; egg,no,yes
+D01,Umm Ali,Desserts,20,dairy; nuts; gluten,yes,yes
+D02,Kunafa,Desserts,38,dairy; gluten; nuts,yes,yes
+D03,Saffron Panna Cotta,Desserts,36,dairy,no,yes
+D04,Date Sticky Toffee Pudding,Desserts,34,gluten; dairy; egg,yes,yes
+D05,Fruit Platter,Desserts,30,,yes,yes
+D06,Chocolate Fondant,Desserts,40,gluten; dairy; egg,yes,yes
+B01,Fresh Lemon Mint,Drinks,22,,yes,yes
+B02,Arabic Coffee,Drinks,18,,no,yes
+B03,Karak Tea,Drinks,12,dairy,yes,yes
+B04,Sparkling Water 750ml,Drinks,20,,yes,yes
+B05,Fresh Orange Juice,Drinks,24,,yes,yes
+B06,Mocktail - Desert Sunset,Drinks,35,,no,yes
+B07,Espresso,Drinks,15,,no,yes
+B08,Saffron Milk,Drinks,20,dairy,yes,yes
+S09,Hummus & Bread,Starters,26,sesame; gluten,yes,yes
+M09,Lamb Shank,Mains,150,,no,yes
+D07,Baklava Selection,Desserts,32,nuts; gluten,no,yes
+B09,Pomegranate Juice,Drinks,24,,yes,yes

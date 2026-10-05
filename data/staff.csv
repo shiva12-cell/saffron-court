@@ -1,0 +1,12 @@
+name,role,hourly_rate_aed,max_hours_per_week,available_days
+Rania,Manager,45,48,Mon-Sat
+Omar K.,Head chef,40,48,Tue-Sun
+Bilal,Chef,28,48,Mon-Sat
+Dana,Chef,28,48,Wed-Sun
+Sami,Waiter,18,45,Mon-Sun
+Hana,Waiter,18,45,Thu-Sun
+Yara,Waiter,18,45,Mon-Fri
+Tariq,Waiter,18,45,Fri-Sun
+Lina,Host,20,40,Mon-Sat
+Karim,Bartender,22,45,Wed-Sun
+Zayed,Kitchen porter,15,48,Mon-Sun
